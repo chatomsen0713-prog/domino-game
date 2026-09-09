@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Domino Game",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Domino",
+  "start_url": "/",
+  "theme_color": "#243b55",
+  "id": "domino-game",
+  "description": "INSET Contextualized Domino Challenge Game"
+}
